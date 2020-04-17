@@ -529,7 +529,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rcThrust: 200
-  mainThrust: 50
+  mainThrust: 2000
   mainEngine: {fileID: 8300000, guid: 6b44b97003e62bb47a5ad79db9f1a291, type: 3}
   deathSound: {fileID: 8300000, guid: ee072122b98f9e34891fd9e71e73d508, type: 3}
   goalSound: {fileID: 8300000, guid: 47d9ab929e066ef4ab420359fab49eae, type: 3}

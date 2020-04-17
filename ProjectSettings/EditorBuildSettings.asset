@@ -11,4 +11,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level 2.unity
     guid: b18cded8ea3f3d04dbf8dd5d5950e393
+  - enabled: 0
+    path: Assets/Scenes/Level 3.unity
+    guid: 10603cea03d01ac4c98011357e7353df
+  - enabled: 0
+    path: Assets/Scenes/Exit Scene.unity
+    guid: 0353bd25cc4cbb44185515b80dc4acef
+  - enabled: 1
+    path: Assets/Scenes/Sand Box.unity
+    guid: 91f11e325deca96469ac4d2bc43d56bb
   m_configObjects: {}
